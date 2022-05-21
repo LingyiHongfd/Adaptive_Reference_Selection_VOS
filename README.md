@@ -1,4 +1,9 @@
 # Adaptive Selection of Reference Frames for Video Object Segmentation
+
+TIP 2022
+
+Lingyi Hong, Wei Zhang , Liangyu Chen, Wenqiang Zhang , Jianping Fan
+
 The PyTorch implementation of [Adaptive Selection of Reference Frames for Video Object Segmentation.](https://ieeexplore.ieee.org/document/9665289)
 
 Model Overview:
@@ -15,7 +20,7 @@ Model Overview:
 ```
 └── ADARS
     └── datasets
-        ├── DAVIS
+        └── DAVIS
             ├── Annotations
             └── ImageSets
             └── JPEGImages
