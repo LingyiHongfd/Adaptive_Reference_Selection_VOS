@@ -4,7 +4,7 @@ TIP 2022
 
 Lingyi Hong, Wei Zhang , Liangyu Chen, Wenqiang Zhang , Jianping Fan
 
-The PyTorch implementation of [Adaptive Selection of Reference Frames for Video Object Segmentation.](https://ieeexplore.ieee.org/document/9665289)
+The official PyTorch implementation of [Adaptive Selection of Reference Frames for Video Object Segmentation.](https://ieeexplore.ieee.org/document/9665289)
 
 Model Overview:
 <div align=center><img src="./picture/model.png" width="80%"/></div>
