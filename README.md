@@ -29,7 +29,7 @@ Model Overview:
 ```
 
 ### Download weights
-Download the [pretrained weights](./picture/model.png) and put it in the `pretrain_models` folder
+Download the [pretrained weights](https://drive.google.com/file/d/13MXbsy9Ba_b68u0hoYQ0uipxfiCs7P9S/view?usp=sharing) and put it in the `pretrain_models` folder
 
 ### Test
 Run the following command to test on Davis 2017 validation set
